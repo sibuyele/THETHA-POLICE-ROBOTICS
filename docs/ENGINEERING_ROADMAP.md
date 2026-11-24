@@ -10,6 +10,16 @@ Each deployed robot is paired with one dedicated four-officer team (4:1 staffing
 
 The four roles must have clear handover and escalation procedures. The robot must remain under direct human supervision; no role delegates arrest, detention, force or guilt decisions to AI. If the team cannot maintain safe supervision, the robot is placed in a safe state and the mission pauses. Staffing, workload, communications and role separation must be evaluated in exercises before any operational pilot.
 
+## Two-robot intervention support configuration
+For a four-officer unit, the concept may allocate **two robots as intervention-support platforms** and two as observation/rescue-support platforms. This is a proposed fleet configuration, not a validated tactical doctrine.
+
+- Intervention-support robots provide remotely operated cameras, thermal-assisted visibility, lighting, loudspeaker communication, status telemetry and a clearly accessible emergency stop.
+- Their purpose is to improve distance, visibility and communication while trained officers assess a potentially dangerous scene.
+- They do not carry electric nets, electrified restraints, projectiles, weapons or other payloads intended to strike, entangle, shock or incapacitate a person.
+- They do not autonomously pursue, surround, block escape routes, threaten, detain or physically intervene against people.
+- Any officer response, search, detention or use-of-force decision remains with authorized human personnel under applicable law and agency policy.
+- Validate operator visibility, safe separation, communications failure behavior, public egress, emergency stop and safe withdrawal in controlled simulations before considering any pilot.
+
 ## Stage 0 — Define the problem
 Consult South African emergency responders, municipalities, communities, disability advocates, engineers and relevant regulators. Select one narrowly defined non-weaponized use case. Define user needs, operating environment, success measures and unacceptable risks. Complete legal, privacy, safety and procurement discovery before hardware selection.
 
