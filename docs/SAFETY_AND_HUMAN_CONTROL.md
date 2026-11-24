@@ -7,10 +7,15 @@ This is a requirements baseline, not a safety certification.
 - Target recognition or selection for applying force.
 - Autonomous pursuit, apprehension, restraint, punishment or coercive crowd control.
 - Autonomous decisions that use physical force against a person.
+- Identifying, profiling, tracking, ranking or selecting people based on actual or perceived immigration or citizenship status.
+- Mass-arrest, immigration-sweep or population-surveillance functionality.
+- Deciding whether a person is lawfully present or should be arrested.
 - Features intended to conceal operator identity or evade lawful oversight.
 
 ## Human responsibility
 - A named, trained operator supervises each active mission.
+- The robot does not make immigration-status or arrest decisions.
+- Any lawful enforcement decision belongs to authorized human officials applying relevant law to an individual case; it is not delegated to the robot.
 - A human authorizes movement into operational areas and any action with material consequences for a person.
 - Remote operators can stop motion and place the platform in a safe state.
 - Loss of control link, degraded localization, sensor disagreement or unexpected behavior triggers a predefined safe response.
