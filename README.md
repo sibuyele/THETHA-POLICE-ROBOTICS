@@ -12,12 +12,16 @@ Develop locally maintainable robotic platforms that help trained responders reac
 - Search and rescue, including locating and communicating with missing or trapped people.
 - Disaster response, including fire, flood, storm and structural-collapse assessment.
 - Emergency assistance, including delivery of first-aid supplies, water and communications equipment.
-- Police support, including remote observation, scene documentation and hazardous-object assessment by qualified specialists.
+- Police support limited to scene safety, emergency communications and hazard assessment under human supervision.
 - Training, maintenance, local manufacturing and technical skills development.
 
-## Non-negotiable safety boundaries
+## Non-negotiable safety and rights boundaries
 - No weapons, weapon mounts, targeting, or autonomous use of force.
 - No autonomous decisions to arrest, detain, punish, pursue or physically restrain people.
+- No identifying, profiling, tracking, ranking or selecting people based on actual or perceived immigration or citizenship status.
+- No mass-arrest, immigration-sweep or population-surveillance functionality.
+- A robot must never decide whether a person is lawfully present or whether an individual should be arrested.
+- Any lawful enforcement decision remains the responsibility of authorized human officials acting on individualized grounds and applicable law, outside the robot's decision-making.
 - A trained human operator remains responsible for every field deployment and consequential action.
 - Safe stop, manual override, emergency recovery and loss-of-communications procedures are required.
 - Privacy, data minimization, access control, retention limits and audit logs must be designed in from the beginning.
