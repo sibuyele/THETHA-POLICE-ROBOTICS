@@ -63,3 +63,21 @@ A controlled exercise may evaluate whether the four-officer team and robot can s
 
 **Exit evidence:** specialist review, survivor-safety assessment, privacy review, team exercise report and documented corrective actions. A successful simulation is not authorization for a live operation.
 
+## Visual design direction — compact single-wheel robot
+
+The supplied reference image establishes the preferred visual direction for the first concept: a compact, low-profile mobile platform built around one prominent rugged central wheel, with protected equipment pods and sensor modules mounted to either side. This is a design reference only; dimensions, internal mechanisms and performance are not established by the image.
+
+### Concept requirements to investigate
+- Large, rugged central wheel with a guarded drive and a stable, low-mounted equipment frame.
+- Protected side pods for cameras, lighting, communications and other approved sensors, arranged to avoid exposed snag points.
+- Forward and rear situational-awareness cameras, with optional thermal sensing for rescue and hazard assessment.
+- Weather-resistant, serviceable enclosure with accessible battery isolation and emergency-stop controls.
+- Human teleoperation, clear status indication, geofenced test-area limits and a verified safe-stop response.
+- Modular payload interfaces for rescue communications, first-aid supplies and environmental sensors.
+- Design for safe recovery if the robot tips, loses power, loses communications or becomes immobilized.
+
+### Engineering questions before selecting this layout
+A single-wheel arrangement may be unstable when stationary or on uneven ground. Engineering must compare self-balancing control, a deployable stabilizer, and a multi-wheel alternative; test slope limits, curb transitions, braking, tip-over recovery, traction, payload placement, battery endurance and safe human proximity. Do not assume the reference demonstrates these capabilities.
+
+### Explicit exclusions
+The visual concept is for mobility, sensing and rescue support only. Do not add smoke, chemical, net, projectile, weapon, restraint or crowd-control payloads. No autonomous pursuit or physical intervention against people. Any future attachment must pass a separate legal, safety, privacy and human-factors review.
