@@ -10,6 +10,7 @@ This is a requirements baseline, not a safety certification.
 - Identifying, profiling, tracking, ranking or selecting people based on actual or perceived immigration or citizenship status.
 - Mass-arrest, immigration-sweep or population-surveillance functionality.
 - Deciding whether a person is lawfully present or should be arrested.
+- Facial recognition, voiceprint identification, emotion inference, deception detection or AI criminality/risk scoring of people.
 - Features intended to conceal operator identity or evade lawful oversight.
 
 ## Human responsibility
@@ -21,6 +22,24 @@ This is a requirements baseline, not a safety certification.
 - Loss of control link, degraded localization, sensor disagreement or unexpected behavior triggers a predefined safe response.
 - Communications failure is never permission to continue a mission autonomously.
 - Each deployment identifies the responsible organization, operator, mission purpose and emergency contact.
+
+## Thermal sensing
+- Thermal sensors may support search and rescue, navigation in low visibility and detection of heat-related hazards.
+- Thermal imagery must not be treated as proof of identity, intent, immigration status or criminal conduct.
+- Operators must consider environmental effects, sensor limits and false positives; consequential findings require independent human verification.
+
+## Inspection support
+- Possible prohibited-item alerts may only support a specific, legally authorized inspection carried out by trained personnel.
+- The robot must not independently search, stop, detain or accuse a person based on a sensor alert.
+- Record sensor type, calibration status, limitations and operator actions; preserve original data where it is lawfully required.
+
+## On-scene AI assistance
+- Audio capture is off by default and may be activated only for a documented mission purpose with appropriate legal authority.
+- Provide a visible or audible recording indicator where feasible; restrict access and avoid collecting unrelated conversations.
+- AI may transcribe, translate, structure notes and draft timelines. It must not identify speakers by voiceprint, infer emotion or deception, or decide guilt.
+- Preserve original recordings separately from AI-generated outputs. Mark AI outputs as machine-generated, retain provenance and timestamps, and require human review against the original.
+- Never allow an AI summary to replace a witness statement, officer observation or original evidence.
+- For murder, sexual-offence and child-protection investigations, apply heightened access restrictions, survivor-sensitive handling, minimization and legally approved retention.
 
 ## Minimum safety engineering
 Every prototype requires documented hazard analysis; physical emergency stop; independently tested safe-stop behavior; speed, force, thermal and environmental limits; guarding and stability assessment; battery and charging protections; fail-safe behavior for sensor, software and communications faults; maintenance procedures; and incident reporting.
