@@ -10,12 +10,13 @@ Develop locally maintainable robotic platforms that help trained responders reac
 
 ## Proposed capability areas
 - Search and rescue, including locating and communicating with missing or trapped people.
+- Human-trafficking response: support authorized, victim-centred search and rescue, safe communication, access to interpreters, scene documentation and evidence preservation under trained human supervision.
 - Disaster response, including fire, flood, storm and structural-collapse assessment.
 - Emergency assistance, including delivery of first-aid supplies, water and communications equipment.
 - Thermal sensing to help locate people in darkness, smoke or difficult terrain and identify heat anomalies during rescue and hazard assessment. Thermal signatures are not identity or proof of wrongdoing.
 - Lawfully authorized, targeted inspection support for possible prohibited or hazardous items. Sensor alerts are leads for trained human inspection, never proof that an item is illegal; no indiscriminate searches.
 - On-scene AI assistance, when specifically activated and legally authorized, for speech-to-text transcription, translation, organizing officer notes, summarizing witness-provided information and preparing incident timelines.
-- Evidence-management support for serious-crime investigations, including murder and sexual offences: time-stamped scene notes, media cataloguing, integrity checks and chain-of-custody records under investigator control.
+- Evidence-management support for serious-crime investigations, including murder, sexual offences, child exploitation and human trafficking: time-stamped scene notes, media cataloguing, integrity checks and chain-of-custody records under investigator control.
 - Police support limited to scene safety, emergency communications and hazard assessment under human supervision.
 - Training, maintenance, local manufacturing and technical skills development.
 
@@ -26,6 +27,8 @@ Develop locally maintainable robotic platforms that help trained responders reac
 - No mass-arrest, immigration-sweep or population-surveillance functionality.
 - A robot must never decide whether a person is lawfully present or whether an individual should be arrested.
 - No facial recognition, voiceprint identification, emotion inference, deception detection or AI-generated criminality/risk scores for identifying or judging people.
+- People who may be victims of trafficking must be treated as people needing protection and support, never automatically as offenders or immigration suspects. Do not infer victim status from appearance, nationality, language or movement.
+- No covert monitoring of shelters, clinics, homes or support services. Any search or entry must have appropriate legal authority and safeguards.
 - Audio capture must not be continuously active by default. Mission-specific activation requires documented authority, clear operator indication, access controls and a defined retention period; respect applicable notice and emergency exceptions.
 - AI-generated transcripts, translations, summaries and sensor alerts are fallible leads. A qualified human must verify them against original recordings and other evidence before operational or evidentiary reliance.
 - Any lawful enforcement decision remains the responsibility of authorized human officials acting on individualized grounds and applicable law, outside the robot's decision-making.
