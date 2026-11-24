@@ -5,6 +5,9 @@
 
 THETHA Police Robotics is a proposed initiative to research, design, manufacture, test and support non-weaponized robotic systems for public safety and emergency response.
 
+## Public project website
+A public-facing project information website is being published through Cloudflare Pages at https://thetha-police-robotics.pages.dev. The site describes the concept, proposed capabilities, four-officer staffing model, safeguards and current project status. It does not represent a manufactured robot, police endorsement or field deployment.
+
 ## Mission
 Develop locally maintainable robotic platforms that help trained responders reach hazardous or difficult environments, improve situational awareness, and support people during emergencies—without replacing human judgment or accountability.
 
