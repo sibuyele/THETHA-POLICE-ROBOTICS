@@ -4,6 +4,7 @@ This is a requirements baseline, not a safety certification.
 
 ## Prohibited capabilities
 - Firearms, less-lethal weapons, explosive payloads or weapon interfaces.
+- Electrified nets, electric restraints or any device intended to shock, entangle, strike or incapacitate a person.
 - Target recognition or selection for applying force.
 - Autonomous pursuit, apprehension, restraint, punishment or coercive crowd control.
 - Autonomous decisions that use physical force against a person.
@@ -23,6 +24,9 @@ This is a requirements baseline, not a safety certification.
 - Loss of control link, degraded localization, sensor disagreement or unexpected behavior triggers a predefined safe response.
 - Communications failure is never permission to continue a mission autonomously.
 - Each deployment identifies the responsible organization, operator, mission purpose and emergency contact.
+
+## Intervention-support configuration
+Two robots in a proposed four-officer unit may be configured for remotely operated observation and communication support. Approved functions may include cameras, thermal-assisted visibility, lighting, loudspeaker communication and emergency stop. These platforms must not carry electric nets, electrified restraints, projectiles or payloads intended to physically incapacitate a person. They must not autonomously pursue, surround, block, detain or physically intervene. Officers retain all lawful decision-making and responsibility. Validate safe separation, public egress, operator workload, communications-loss response and withdrawal in controlled simulations.
 
 ## Human-trafficking response and victim protection
 - Use the platform only to support a defined, authorized rescue, welfare or investigative mission led by trained personnel.
