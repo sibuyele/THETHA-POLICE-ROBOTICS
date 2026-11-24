@@ -50,3 +50,16 @@ Assess design for manufacture, supplier qualification, quality management, repai
 - Manufacturing, testing, maintenance and training.
 
 All targets must be labelled as requirements, estimates or measured results. Never describe a prototype as field-ready without evidence and formal authorization.
+
+## Human-trafficking response exercise
+A controlled exercise may evaluate whether the four-officer team and robot can support a victim-centred search-and-rescue scenario without increasing risk to the person being helped. Use trained role-players or simulation; never use real survivor data in development tests.
+
+- Mission commander coordinates with authorized specialist responders and victim-support services.
+- Robot operator uses only approved teleoperation and rescue sensors; no autonomous person-following or questioning.
+- Safety officer monitors physical hazards, safe access and the ability to stop the robot.
+- Evidence and communications officer handles only authorized, minimum-necessary records and secure referrals; sensitive survivor details are not broadcast over open channels.
+- Exercise interpreter access, discreet help-request communication, safe-stop, data minimization, secure evidence handling and referral handover.
+- Evaluate whether the robot can be withdrawn without exposing or endangering a person.
+
+**Exit evidence:** specialist review, survivor-safety assessment, privacy review, team exercise report and documented corrective actions. A successful simulation is not authorization for a live operation.
+
