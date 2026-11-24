@@ -19,6 +19,14 @@ A robot is not a general-purpose surveillance platform. Collect the minimum info
 - Do not use mission data to train models or for unrelated purposes without separate lawful assessment and authorization.
 - Establish procedures for access requests, correction, complaints, breaches and evidence preservation.
 
+## Trafficking-survivor information
+- Treat location, identity, contact details, statements, images and service-provider links as highly sensitive.
+- Do not expose a survivor's location or identity to unauthorized users or through public-facing dashboards, alerts or shared maps.
+- Apply strict role-based access, access logging, minimum-necessary sharing and a documented safety review before disclosure.
+- Do not collect or retain sensitive interview content by default. Record only when specifically authorized and necessary under a survivor-sensitive protocol.
+- Do not infer trafficking status from nationality, immigration status, language, gender, age, appearance or movement patterns.
+- Do not repurpose survivor data for model training, publicity, fundraising or unrelated investigations.
+
 ## South African legal review
 Before field trials, obtain qualified advice on applicable South African requirements, including POPIA, applicable law-enforcement or public-sector rules, evidence handling, communications, aviation or radio rules where relevant, and occupational health and safety obligations. Applicability depends on operator, purpose, data and deployment context.
 
